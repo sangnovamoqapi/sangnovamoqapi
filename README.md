@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently: Software Engineer <br>Tech: .NET 6.0 and Angular<br>Knows: C#, CPP, Python, SQL, and this😉<br>Learning: About Recommender Systems<br>Building: Next-Gen Learning Experience and Info Declutterer
+Currently: Software Engineer <br>Tech: .NET 6.0 and Angular<br>Knows: C#, CPP, Python, SQL, and this😉<br>Learning: Recommender Systems<br>Building: Next-Gen Learning Experience and Info Declutterer
 
 
 ## 🌐 Socials:
