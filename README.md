@@ -13,7 +13,7 @@ Currently: Software Engineer <br>Tech: .NET 6.0 and Angular<br>Knows: C#, CPP, P
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangnovamoqapi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=morjaria_jigar)]
+[!(https://gtce.itsvg.in/api?username=morjaria_jigar)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
