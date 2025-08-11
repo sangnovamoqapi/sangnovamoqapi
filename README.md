@@ -12,9 +12,6 @@ Software Engineer <br>Tech: .NET and Angular<br>Knows: C#, Rust, Python, SQL, an
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sangnovamoqapi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangnovamoqapi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-![](https://gtce.itsvg.in/api?username=jigar_o&theme=aura&response=true&border=true&time=true&icon=default)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sangnovamoqapi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
