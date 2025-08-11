@@ -1,9 +1,9 @@
 # 💫 About Me:
-Currently: Software Engineer <br>Tech: .NET 6.0 and Angular<br>Knows: C#, CPP, Rust, Python, SQL, and this<br>Learning: Recommender Systems<br>Building: Next-Gen Learning Experience and Info Declutterer
+Software Engineer <br>Tech: .NET and Angular<br>Knows: C#, Rust, Python, SQL, and this<br>Learning: RL <br>Building: Next-Gen Learning Experience
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jigar-morjaria) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@morjariyajigar45) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/jigar_o) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jigar-morjaria) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@morjariyajigar45) [![X](https://img.shields.io/badge/-%20-%23000000.svg?logo=X&logoColor=white)](https://x.com/jigar_o) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white))
