@@ -13,6 +13,6 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "TWEETS_LIST"
+          comment_tag_name: "TWEETS-LIST"
           feed_list: "https://xcancel.com/jigar_o/rss"
           max_post_count: 3 # Number of tweets to show
