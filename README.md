@@ -15,8 +15,9 @@ Software Engineer <br>Tech: .NET and Angular<br>Knows: C#, Rust, Python, SQL, an
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sangnovamoqapi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- TWEETS_LIST:START -->
+
 ## 🐦 Latest Tweets
-<!-- TWEETS_LIST:END -->
+<!-- TWEETS-LIST:START -->
+<!-- TWEETS-LIST:END -->
 ---
 [![](https://visitcount.itsvg.in/api?id=sangnovamoqapi&icon=0&color=0)](https://visitcount.itsvg.in)
