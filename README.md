@@ -28,9 +28,9 @@ L3: Synthesizing causal rules on the fly &lpar;strong generalization&rpar;
 
 L4: Discovering general principles, metacognition &lpar;extreme generalization&rpar;
 
-To achieve compounding AI you need to reach L4.](https://rss.xcancel.com/fchollet/status/1989272911534756038#m)
-- [RT by @jigar_o: I admire Don Knuth for many things. But perhaps the most admirable is quitting email before I was even born.](https://rss.xcancel.com/thegautamkamath/status/1988622318629757179#m)
-- [RT by @jigar_o: Not a single soul in the known universe reads poetry anymore, but it’s ironic because it seems like the perfect genre for today’s modest attention spans. Twitter is basically poetry, just really bad.](https://rss.xcancel.com/allgarbled/status/1988447197613154569#m)
+To achieve compounding AI you need to reach L4.](https://xcancel.com/fchollet/status/1989272911534756038#m)
+- [RT by @jigar_o: I admire Don Knuth for many things. But perhaps the most admirable is quitting email before I was even born.](https://xcancel.com/thegautamkamath/status/1988622318629757179#m)
+- [RT by @jigar_o: Not a single soul in the known universe reads poetry anymore, but it’s ironic because it seems like the perfect genre for today’s modest attention spans. Twitter is basically poetry, just really bad.](https://xcancel.com/allgarbled/status/1988447197613154569#m)
 <!-- TWEETS-LIST:END -->
 ---
 [![](https://visitcount.itsvg.in/api?id=sangnovamoqapi&icon=0&color=0)](https://visitcount.itsvg.in)
