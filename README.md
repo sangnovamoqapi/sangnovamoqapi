@@ -18,6 +18,9 @@ Software Engineer <br>Tech: .NET and Angular<br>Knows: C#, Rust, Python, SQL, an
 
 ## 🐦 Latest Tweets
 <!-- TWEETS-LIST:START -->
+- [RT by @jigar_o: The paradox of living in the present moment is that you must willingly give up on the illusion of free will.
+
+You must become a vehicle for the time flow through you without trying to control it.](https://xcancel.com/paraschopra/status/1992199473163055437#m)
 - [RT by @jigar_o: The ladder of intelligence is the ladder of abstraction.
 
 L1: Memorizing answers &lpar;no generalization&rpar;
@@ -30,7 +33,6 @@ L4: Discovering general principles, metacognition &lpar;extreme generalization&r
 
 To achieve compounding AI you need to reach L4.](https://xcancel.com/fchollet/status/1989272911534756038#m)
 - [RT by @jigar_o: I admire Don Knuth for many things. But perhaps the most admirable is quitting email before I was even born.](https://xcancel.com/thegautamkamath/status/1988622318629757179#m)
-- [RT by @jigar_o: Not a single soul in the known universe reads poetry anymore, but it’s ironic because it seems like the perfect genre for today’s modest attention spans. Twitter is basically poetry, just really bad.](https://xcancel.com/allgarbled/status/1988447197613154569#m)
 <!-- TWEETS-LIST:END -->
 ---
 [![](https://visitcount.itsvg.in/api?id=sangnovamoqapi&icon=0&color=0)](https://visitcount.itsvg.in)
