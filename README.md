@@ -8,7 +8,9 @@ Software Engineer <br>Tech: .NET and Angular<br>Knows: C#, Rust, Python, SQL, an
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangnovamoqapi&layout=compact&theme=vision-friendly-dark)
+# Replace YOUR_USERNAME with your GitHub handle
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangnovamoqapi&theme=219b)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangnovamoqapi&theme=219b)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sangnovamoqapi&limit=5&theme=dark&combine_all_yearly_contributions=true)
