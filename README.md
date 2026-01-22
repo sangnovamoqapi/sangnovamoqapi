@@ -11,8 +11,16 @@ Software Engineer <br>Tech: .NET and Angular<br>Knows: C#, Rust, Python, SQL, an
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangnovamoqapi&theme=219b)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangnovamoqapi&theme=219b)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sangnovamoqapi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sangnovamoqapi&count_private=true&theme=react&border_radius=10"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sangnovamoqapi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+  <br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangnovamoqapi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"/>
+</div>
+
+<br/><br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sangnovamoqapi&icon=0&color=0)](https://visitcount.itsvg.in)
